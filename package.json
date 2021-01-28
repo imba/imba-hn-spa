@@ -1,0 +1,9 @@
+{
+  "name": "imba-hn-spa",
+  "scripts": {
+    "start": "npx imba serve app/index.imba"
+  },
+  "dependencies": {
+    "imba": "^2.0.0-alpha.118"
+  }
+}
